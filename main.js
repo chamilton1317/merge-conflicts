@@ -1,2 +1,2 @@
 var num = 50;
-var name = "craigerton";
+var name = "craig hamilton";
